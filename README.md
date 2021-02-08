@@ -1,0 +1,2 @@
+# ScoreBoard
+Scoreboard plugin
