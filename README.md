@@ -1,8 +1,8 @@
 # TR
-ScoreboardsAPI eklentisi ile çalışan
+~~ScoreboardsAPI eklentisi ile çalışan
 Scoreboard (hud) eklentisi.
-İzinsiz satılması yasaktır.
+İzinsiz satılması yasaktır.~~
 
 # ENG
-Scoreboard plugin with API.
-It is forbidden to sell.
+~~Scoreboard plugin with API.
+It is forbidden to sell.~~
